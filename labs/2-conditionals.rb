@@ -38,3 +38,5 @@ elsif total==2 || total==3 || total==12
 else 
     puts "THE POINT IS #{total}"
 end
+
+nothing

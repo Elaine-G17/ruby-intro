@@ -15,3 +15,11 @@
 # HINTS
 # Learn to read the documentation!
 # https://ruby-doc.org/core-2.7.0/Array.html
+
+elaine_shopping_list = ["apple", "pizza", "icecream"]
+debi_shopping_list=["apple", "banana", "tea"]
+mixed_array= elaine_shopping_list + debi_shopping_list
+list=mixed_array.sort
+final_list=list.uniq
+puts "buy #{final_list[0]}"
+puts "buy #{final_list[1]}"
