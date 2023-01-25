@@ -74,7 +74,6 @@ for taco in tacos
   # happens implicitly
 
   # 4. print taco using loop variable
-  puts "#{taco} tacos!"
 
   # 5. add 1 to index
   # happens implicitly
